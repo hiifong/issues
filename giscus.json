@@ -1,0 +1,14 @@
+{
+  "origins": [
+    "https://fixbug.app",
+    "https://hiifong.vercel.app",
+    "https://giscus-component.vercel.app",
+    "https://52at.ml",
+    "https://hiifong-git-master-hiifong.vercel.app",
+    "https://hiifong-hiifong.vercel.app"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
+}
